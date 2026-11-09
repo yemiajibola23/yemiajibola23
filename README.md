@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yemi 👋
 
-<!--
-**yemiajibola23/yemiajibola23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iOS and AI engineer building basketball analytics tools.**
 
-Here are some ideas to get you started:
+Six years shipping production iOS apps (WillowTree, Wayfair), plus Microsoft's AI Engineering certification. Now I'm combining the two to build tools for the NBA data space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+| Project | What it is |
+| --- | --- |
+| [shootaround](https://github.com/yemiajibola23/shootaround) | iOS app that drills iOS, AI engineering and basketball data with spaced repetition |
+| [nba_2012_finals](https://github.com/yemiajibola23/nba_2012_finals) | Four Factors analysis of the 2012 NBA Finals |
+
+## Stack
+
+Swift · SwiftUI · SwiftData · Python · REST APIs · Machine learning
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/yemiajibola)
